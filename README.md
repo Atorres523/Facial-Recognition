@@ -1,1 +1,4 @@
 I developed a Python-based facial recognition software using TensorFlow and a Siamese neural network model that I coded from scratch. The software leverages the Siamese model to train on facial images, enabling accurate and efficient recognition by comparing feature vectors of faces. This project demonstrates my ability to work with advanced machine learning frameworks and develop custom neural network architectures.
+
+It has an accuracy of 80-90%% percent, one flaw is that the train model only recognizes me if the clothes are the same as the data it was trained on. This could easily be fixed if I manipulated the data I trained it on.
+For example, I couuld change the hue in the photos, rotate, the images, sent the images to black and white, or a combination of each of them to strengthen the model 
